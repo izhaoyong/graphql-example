@@ -1,0 +1,29 @@
+{
+	"dependencies": {
+		"babel": "^6.23.0",
+		"babel-core": "^6.26.3",
+		"babel-polyfill": "^6.26.0",
+		"babel-preset-latest-node": "^1.0.0",
+		"babel-preset-stage-3": "^6.24.1",
+		"body-parser": "^1.18.3",
+		"express": "^4.16.3",
+		"express-graphql": "^0.6.12",
+		"graphql": "^0.13.2",
+		"koa": "^2.5.2",
+		"koa-bodyparser": "^4.2.1",
+		"koa-router": "^7.4.0",
+		"koa-static": "^5.0.0",
+		"mongoose": "^5.2.7"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"name": "Graph",
+	"version": "1.0.0",
+	"main": "index.js",
+	"devDependencies": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
